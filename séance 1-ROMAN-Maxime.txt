@@ -1,0 +1,4 @@
+Aujourd’hui, j’ai sélectionné les composants suivants : capteur température (DH22), bluetooth et accéléromètre ().
+Programme test capteur de température/humidité (foncionne)
+Programme affichage température humidité sur écran LCD (fonctionne)
+Réflexion sur bluetooth : télécommunication
